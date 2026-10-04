@@ -7,7 +7,7 @@
 - Cauã Caravalho de Oliveira
 - João Pedro Barbosa Moz
 
-**Disciplina:** Cálculo II · **Vídeo:** _(link do YouTube)_
+**Disciplina:** Cálculo II · **Vídeo:** _https://www.youtube.com/watch?v=mRVzB8aTXZU_
 
 ---
 
